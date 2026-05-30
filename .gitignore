@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.ipch
+*.pdb
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
